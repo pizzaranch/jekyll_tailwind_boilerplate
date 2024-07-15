@@ -4,13 +4,13 @@ a more stripped down version of [https://github.com/mzrnsh/jekyllwind/tree/main]
 
 ## what I did here
 
-jekyll new jekyll-store-display
+`jekyll new jekyll-store-display`
 
-npm install
+`npm install`
 
-bundle install
+`bundle install`
 
-bundle add jekyll-postcss
+`bundle add jekyll-postcss`
 
 
 added the following files that aren't there in the Jekyll install:
